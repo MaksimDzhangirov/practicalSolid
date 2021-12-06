@@ -4,6 +4,7 @@
 изменения в приложения, при этом ничего не сломав — принцип открытости/закрытости.
 
 ![intro](images/ocp/intro.jpeg)
+
 *Фото [Tekton](https://unsplash.com/@tekton_tools) из [Unsplash](https://unsplash.com/)*
 
 Множество различных подходов и принципов позволяют улучшать наш код в 
@@ -30,6 +31,8 @@ SOLID, действительно понимают, что означает эт
 > 3. [DDD на практике в Golang: Агрегат](https://levelup.gitconnected.com/practical-ddd-in-golang-aggregate-de13f561e629)
 > 4. [DDD на практике в Golang: Репозиторий](https://levelup.gitconnected.com/practical-ddd-in-golang-repository-d308c9d79ba7)
 > 5. ...
+> 
+> Прим. пер. Их перевод доступен по [адресу](https://github.com/MaksimDzhangirov/practicalDDD).
 
 ## Когда мы не соблюдаем принцип открытости/закрытости
 

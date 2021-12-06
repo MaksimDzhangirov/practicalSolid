@@ -4,6 +4,7 @@
 самого известного из них — принципа единой ответственности.
 
 ![intro](images/srp/intro.jpeg)
+
 *Фото [Hunter Haley](https://unsplash.com/@hnhmarketing) из [Unsplash](https://unsplash.com/)*
 
 Возможностей для совершения какого-то крупного прорыва в области разработки 

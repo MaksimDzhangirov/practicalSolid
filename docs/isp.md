@@ -4,6 +4,7 @@
 наиболее значительное влияние на разработку кода — принцип разделения интерфейсов.
 
 ![intro](images/isp/intro.jpeg)
+
 *Фото [Mike Winkler](https://unsplash.com/@ahmeyer) из [Unsplash](https://unsplash.com/)*
 
 Каждый раз когда кто-то начинает заниматься программированием, подход при обучении
@@ -38,6 +39,8 @@
 > 3. [DDD на практике в Golang: Агрегат](https://levelup.gitconnected.com/practical-ddd-in-golang-aggregate-de13f561e629)
 > 4. [DDD на практике в Golang: Репозиторий](https://levelup.gitconnected.com/practical-ddd-in-golang-repository-d308c9d79ba7)
 > 5. ...
+>
+> Прим. пер. Их перевод доступен по [адресу](https://github.com/MaksimDzhangirov/practicalDDD).
 
 ## Когда мы не соблюдаем принцип разделения интерфейсов
 
@@ -542,3 +545,5 @@ type ReadWriteCloser interface {
 > 3. [DDD на практике в Golang: Агрегат](https://levelup.gitconnected.com/practical-ddd-in-golang-aggregate-de13f561e629)
 > 4. [DDD на практике в Golang: Репозиторий](https://levelup.gitconnected.com/practical-ddd-in-golang-repository-d308c9d79ba7)
 > 5. ...
+>
+> Прим. пер. Их перевод доступен по [адресу](https://github.com/MaksimDzhangirov/practicalDDD).

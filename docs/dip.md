@@ -5,6 +5,7 @@
 зависимостей.
 
 ![intro](images/dip/intro.jpeg)
+
 *Фото [Jonny Gios](https://unsplash.com/@supergios) из [Unsplash](https://unsplash.com/)*
 
 Изучение нового языка программирования часто не является чем-то сложным. Я
@@ -37,6 +38,8 @@ C#), можно довольно просто.
 > 3. [DDD на практике в Golang: Агрегат](https://levelup.gitconnected.com/practical-ddd-in-golang-aggregate-de13f561e629)
 > 4. [DDD на практике в Golang: Репозиторий](https://levelup.gitconnected.com/practical-ddd-in-golang-repository-d308c9d79ba7)
 > 5. ...
+>
+> Прим. пер. Их перевод доступен по [адресу](https://github.com/MaksimDzhangirov/practicalDDD).
 
 ## Когда мы не соблюдаем принцип инверсии зависимостей
 
@@ -560,3 +563,5 @@ func GetUser(reader io.Reader) (*User, error) {
 > 3. [DDD на практике в Golang: Агрегат](https://levelup.gitconnected.com/practical-ddd-in-golang-aggregate-de13f561e629)
 > 4. [DDD на практике в Golang: Репозиторий](https://levelup.gitconnected.com/practical-ddd-in-golang-repository-d308c9d79ba7)
 > 5. ...
+>
+> Прим. пер. Их перевод доступен по [адресу](https://github.com/MaksimDzhangirov/practicalDDD).
